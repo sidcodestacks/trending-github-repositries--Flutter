@@ -1,0 +1,4 @@
+#Sat Oct 06 15:53:15 IST 2018
+base.0=/Users/siddharth/Downloads/trending_github/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
